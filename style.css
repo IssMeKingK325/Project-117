@@ -1,0 +1,21 @@
+body
+{
+    background-color: aquamarine;
+}
+
+#score
+{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#time
+{
+    font-size: medium;
+    margin-left: 20px;
+}
+
+#sketch_name
+{
+    color: crimson;
+}
